@@ -9,3 +9,8 @@ Esse trabalho tem como intuito colocar em prática o que foi visto em sala de au
 <img src="https://user-images.githubusercontent.com/47721533/207745632-87ed68c4-9b87-461f-97be-56b35e6df898.png" />
 </div>
 
+3 - Para criar essa imagem acima foi utilizado a métrica accentricity para dividir e 8 grupos sendo grupo 1  aqueles que tem accentricity igual a 0  até o grupo 8 com accntricity igual 7 e também foi destacado aqueles que tinham maior closeness centrality.
+link: https://matsunaga87.github.io/trabalho-final-estrutura-de-dados/network/#
+
+ 
+
