@@ -12,5 +12,14 @@ Esse trabalho tem como intuito colocar em prática o que foi visto em sala de au
 3 - Para criar essa imagem acima foi utilizado a métrica accentricity para dividir e 8 grupos sendo grupo 1  aqueles que tem accentricity igual a 0  até o grupo 8 com accntricity igual 7 e também foi destacado aqueles que tinham maior closeness centrality.
 link: https://matsunaga87.github.io/trabalho-final-estrutura-de-dados/network/#
 
+4 - Foi criado um vídeo de 5 min analisando as métricas de eccentricity, betweenness e closeness link: https://www.loom.com/share/6543b850370548c2ace028c590a69748
+ 
+5 - E por final foi criado uma imagem no gephisto.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/47721533/207869907-442a5e26-2059-4213-bf37-202a1341a8ba.png" />
+</div>
+
+
  
 
